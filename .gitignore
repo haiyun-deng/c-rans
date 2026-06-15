@@ -1,0 +1,10 @@
+.DS_Store
+__MACOSX/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+result/
+results/eval_task_ab/
+results/eval_task_c/
